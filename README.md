@@ -8,6 +8,7 @@
 
 時間が経つと生成されるタピオカをタップすると（飲むと）タPを手に入れることができ，それを集めます．
 
+<img width="240" alt="tapi1" src="https://user-images.githubusercontent.com/82075582/139174305-e8642f90-281c-4492-8c14-81fb0e143302.png"><img width="235" alt="tapi2" src="https://user-images.githubusercontent.com/82075582/139174326-2d18d1ec-c401-4ee3-b3a1-32061a9ae3f9.png"><img width="240" alt="tapi3" src="https://user-images.githubusercontent.com/82075582/139174359-786c898a-b2b8-4cf5-9f6e-9a49ba73994b.png"><img width="243" alt="tapi4" src="https://user-images.githubusercontent.com/82075582/139174372-a2f0d9f8-cb3e-4f1c-b41f-1f2dc5282e56.png">
 
 
 ## Feature
